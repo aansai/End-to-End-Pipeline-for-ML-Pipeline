@@ -16,3 +16,31 @@
 2026-03-30 02:30:47,864 | app_logger | DEBUG | Data Load Successfully
 2026-03-30 02:30:47,865 | app_logger | DEBUG | Data Saving Start
 2026-03-30 02:30:48,018 | app_logger | DEBUG | Data Save SUccessfully
+2026-03-30 03:02:58,069 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 03:02:58,069 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 03:02:58,069 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 03:02:58,069 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 03:02:58,069 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 03:02:58,070 | app_logger | DEBUG | Data Loading Start
+2026-03-30 03:02:58,130 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 03:02:58,130 | app_logger | DEBUG | Cleaning a Worclass Feature Start
+2026-03-30 03:02:58,143 | app_logger | DEBUG | Cleaning od Workclass Column Done...
+2026-03-30 03:02:58,143 | app_logger | DEBUG | Cleaning a Education Feature Start
+2026-03-30 03:02:58,163 | app_logger | DEBUG | Education column Cleaning Successfully Done
+2026-03-30 03:02:58,163 | app_logger | INFO | Make a new feature education_order
+2026-03-30 03:02:58,170 | app_logger | INFO | education_order col making by education col done
+2026-03-30 03:02:58,171 | app_logger | DEBUG | Drop a education column
+2026-03-30 03:02:58,179 | app_logger | INFO | marital.status cleaning start
+2026-03-30 03:02:58,208 | app_logger | INFO | marital_status cleaning done
+2026-03-30 03:02:58,209 | app_logger | INFO | Occupation column cleaning Start
+2026-03-30 03:02:58,235 | app_logger | DEBUG | Occupation column cleaning Done
+2026-03-30 03:02:58,235 | app_logger | DEBUG | relationship column cleaning Start
+2026-03-30 03:02:58,244 | app_logger | INFO | Relationship column cleaning done
+2026-03-30 03:02:58,244 | app_logger | INFO | race column drop
+2026-03-30 03:02:58,248 | app_logger | DEBUG | native_country column cleaning start
+2026-03-30 03:02:58,298 | app_logger | DEBUG | native_country cleaning done
+2026-03-30 03:02:58,299 | app_logger | INFO | change the features of target column
+2026-03-30 03:02:58,308 | app_logger | DEBUG | correct the name of capital loss column
+2026-03-30 03:02:58,308 | app_logger | INFO | Make new col by capital_gain
+2026-03-30 03:02:58,312 | app_logger | INFO | gain-flag & gain-log columns making Successfully
+2026-03-30 03:02:58,312 | app_logger | INFO | Saving Data process start
