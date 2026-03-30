@@ -1,0 +1,14 @@
+artifact_uri: file:C:/DVCpipe/mlruns/0/f9d1883ce92e46e193f772414ecc4685/artifacts
+end_time: 1774875852801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9d1883ce92e46e193f772414ecc4685
+run_name: tasteful-shrike-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774875803849
+status: 3
+tags: []
+user_id: Dell 11th

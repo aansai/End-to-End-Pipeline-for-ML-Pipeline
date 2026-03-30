@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/DVCpipe/mlruns/300772313972172426/6e0060275feb4f3d8d4e9066030eb4a6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '300772313972172426'
+lifecycle_stage: active
+run_id: 6e0060275feb4f3d8d4e9066030eb4a6
+run_name: flawless-boar-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774876224079
+status: 1
+tags: []
+user_id: Dell 11th

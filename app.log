@@ -124,3 +124,259 @@
 2026-03-30 03:56:06,280 | app_logger | DEBUG | Data Load Successfully
 2026-03-30 03:56:06,280 | app_logger | DEBUG | Data Saving Start
 2026-03-30 03:56:06,492 | app_logger | DEBUG | Data Save SUccessfully
+2026-03-30 04:03:06,592 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 04:03:06,593 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 04:03:06,593 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 04:03:06,593 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 04:03:06,593 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 04:03:06,593 | app_logger | DEBUG | Data Loading Start
+2026-03-30 04:03:06,671 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 04:03:06,671 | app_logger | DEBUG | Data Saving Start
+2026-03-30 04:03:06,868 | app_logger | DEBUG | Data Save SUccessfully
+2026-03-30 04:13:08,960 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 04:13:08,960 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 04:13:08,961 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 04:13:08,961 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 04:13:08,961 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 04:13:08,962 | app_logger | DEBUG | Data Loading Start
+2026-03-30 04:13:42,539 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 04:13:42,539 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 04:13:42,539 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 04:13:42,539 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 04:13:42,540 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 04:13:42,540 | app_logger | DEBUG | Data Loading Start
+2026-03-30 04:13:42,637 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 04:13:42,637 | app_logger | INFO | Data Splitting Start
+2026-03-30 04:13:42,652 | app_logger | INFO | Splitting data Done
+2026-03-30 04:13:42,653 | app_logger | DEBUG | Building a processor Start
+2026-03-30 04:13:42,653 | app_logger | DEBUG | Processor building Done
+2026-03-30 04:13:42,653 | app_logger | DEBUG | Model Building Start
+2026-03-30 04:14:22,338 | app_logger | INFO | Saving Data process start
+2026-03-30 04:14:22,354 | app_logger | INFO | Saving Data process Done
+2026-03-30 05:57:47,621 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 05:57:47,625 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 05:57:47,626 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 05:57:47,627 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 05:57:47,628 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 05:57:47,629 | app_logger | DEBUG | Data Loading Start
+2026-03-30 05:57:47,717 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 05:57:47,718 | app_logger | INFO | Data Splitting Start
+2026-03-30 05:57:47,738 | app_logger | INFO | Splitting data Done
+2026-03-30 05:57:47,738 | app_logger | DEBUG | Building a processor Start
+2026-03-30 05:57:47,739 | app_logger | DEBUG | Processor building Done
+2026-03-30 05:57:47,739 | app_logger | DEBUG | Model Building Start
+2026-03-30 05:58:00,987 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 05:58:00,987 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 05:58:00,987 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 05:58:00,988 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 05:58:00,988 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 05:58:00,988 | app_logger | DEBUG | Data Loading Start
+2026-03-30 05:58:01,051 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 05:58:01,052 | app_logger | INFO | Data Splitting Start
+2026-03-30 05:58:01,062 | app_logger | INFO | Splitting data Done
+2026-03-30 05:58:01,062 | app_logger | DEBUG | Building a processor Start
+2026-03-30 05:58:01,063 | app_logger | DEBUG | Processor building Done
+2026-03-30 05:58:01,063 | app_logger | DEBUG | Model Building Start
+2026-03-30 05:59:17,930 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 05:59:17,931 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 05:59:17,931 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 05:59:17,931 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 05:59:17,931 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 05:59:17,931 | app_logger | DEBUG | Data Loading Start
+2026-03-30 05:59:18,002 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 05:59:18,002 | app_logger | INFO | Data Splitting Start
+2026-03-30 05:59:18,014 | app_logger | INFO | Splitting data Done
+2026-03-30 05:59:18,015 | app_logger | DEBUG | Building a processor Start
+2026-03-30 05:59:18,016 | app_logger | DEBUG | Processor building Done
+2026-03-30 05:59:18,016 | app_logger | DEBUG | Model Building Start
+2026-03-30 06:00:07,410 | app_logger | INFO | Saving Data process start
+2026-03-30 06:00:07,435 | app_logger | INFO | Saving Data process Done
+2026-03-30 06:02:33,348 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 06:02:33,348 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 06:02:33,348 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 06:02:33,349 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 06:02:33,349 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 06:02:33,349 | app_logger | DEBUG | Data Loading Start
+2026-03-30 06:02:33,422 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 06:02:33,422 | app_logger | INFO | Data Splitting Start
+2026-03-30 06:02:33,432 | app_logger | INFO | Splitting data Done
+2026-03-30 06:02:33,433 | app_logger | DEBUG | Building a processor Start
+2026-03-30 06:02:33,434 | app_logger | DEBUG | Processor building Done
+2026-03-30 06:02:33,434 | app_logger | DEBUG | Model Building Start
+2026-03-30 06:03:23,512 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 06:03:23,512 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 06:03:23,512 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 06:03:23,512 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 06:03:23,513 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 06:03:23,513 | app_logger | DEBUG | Data Loading Start
+2026-03-30 06:03:23,575 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 06:03:23,575 | app_logger | INFO | Data Splitting Start
+2026-03-30 06:03:23,585 | app_logger | INFO | Splitting data Done
+2026-03-30 06:03:23,587 | app_logger | DEBUG | Building a processor Start
+2026-03-30 06:03:23,587 | app_logger | DEBUG | Processor building Done
+2026-03-30 06:03:23,587 | app_logger | DEBUG | Model Building Start
+2026-03-30 06:04:12,803 | app_logger | INFO | Saving Data process start
+2026-03-30 06:04:12,814 | app_logger | INFO | Saving Data process Done
+2026-03-30 06:10:23,690 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 06:10:23,691 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 06:10:23,691 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 06:10:23,691 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 06:10:23,691 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 06:10:23,723 | app_logger | DEBUG | Data Loading Start
+2026-03-30 06:10:23,817 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 06:10:23,817 | app_logger | INFO | Data Splitting Start
+2026-03-30 06:10:23,826 | app_logger | INFO | Splitting data Done
+2026-03-30 06:10:23,827 | app_logger | DEBUG | Building a processor Start
+2026-03-30 06:10:23,827 | app_logger | DEBUG | Processor building Done
+2026-03-30 06:10:23,827 | app_logger | DEBUG | Model Building Start
+2026-03-30 06:10:55,942 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 06:10:55,942 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 06:10:55,942 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 06:10:55,942 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 06:10:55,942 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 06:10:55,958 | app_logger | DEBUG | Data Loading Start
+2026-03-30 06:10:56,027 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 06:10:56,027 | app_logger | INFO | Data Splitting Start
+2026-03-30 06:10:56,039 | app_logger | INFO | Splitting data Done
+2026-03-30 06:10:56,040 | app_logger | DEBUG | Building a processor Start
+2026-03-30 06:10:56,040 | app_logger | DEBUG | Processor building Done
+2026-03-30 06:10:56,041 | app_logger | DEBUG | Model Building Start
+2026-03-30 06:11:37,178 | app_logger | INFO | Saving Data process start
+2026-03-30 06:11:37,207 | app_logger | INFO | Saving Data process Done
+2026-03-30 06:12:16,160 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 06:12:16,160 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 06:12:16,160 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 06:12:16,161 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 06:12:16,161 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 06:12:35,074 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 06:12:35,074 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 06:12:35,074 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 06:12:35,075 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 06:12:35,075 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 06:13:51,908 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 06:13:51,909 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 06:13:51,909 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 06:13:51,909 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 06:13:51,910 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 06:13:51,955 | app_logger | DEBUG | Data Loading Start
+2026-03-30 06:13:52,067 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 06:13:52,068 | app_logger | INFO | Data Splitting Start
+2026-03-30 06:13:52,085 | app_logger | INFO | Splitting data Done
+2026-03-30 06:13:52,086 | app_logger | DEBUG | Building a processor Start
+2026-03-30 06:13:52,087 | app_logger | DEBUG | Processor building Done
+2026-03-30 06:13:52,087 | app_logger | DEBUG | Model Building Start
+2026-03-30 06:14:34,548 | app_logger | INFO | Saving Data process start
+2026-03-30 06:14:34,561 | app_logger | INFO | Saving Data process Done
+2026-03-30 06:15:23,257 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 06:15:23,257 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 06:15:23,257 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 06:15:23,257 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 06:15:23,258 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 06:17:13,754 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 06:17:13,754 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 06:17:13,754 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 06:17:13,755 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 06:17:13,755 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 06:17:13,755 | app_logger | DEBUG | Data Loading Start
+2026-03-30 06:17:13,814 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 06:17:13,814 | app_logger | INFO | Data Splitting Start
+2026-03-30 06:17:13,825 | app_logger | INFO | Splitting data Done
+2026-03-30 06:17:13,826 | app_logger | DEBUG | Building a processor Start
+2026-03-30 06:17:13,826 | app_logger | DEBUG | Processor building Done
+2026-03-30 06:17:13,826 | app_logger | DEBUG | Model Building Start
+2026-03-30 06:17:53,956 | app_logger | INFO | Saving Data process start
+2026-03-30 06:17:53,967 | app_logger | INFO | Saving Data process Done
+2026-03-30 07:53:10,374 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 07:53:10,375 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 07:53:10,375 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 07:53:10,375 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 07:53:10,376 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 07:53:10,473 | app_logger | DEBUG | Data Loading Start
+2026-03-30 07:53:10,560 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 07:53:10,560 | app_logger | INFO | Data Splitting Start
+2026-03-30 07:53:10,589 | app_logger | INFO | Splitting data Done
+2026-03-30 07:53:10,590 | app_logger | DEBUG | Building a processor Start
+2026-03-30 07:53:10,590 | app_logger | DEBUG | Processor building Done
+2026-03-30 07:53:10,591 | app_logger | DEBUG | Model Building Start
+2026-03-30 07:53:52,318 | app_logger | INFO | Saving Data process start
+2026-03-30 07:53:52,330 | app_logger | INFO | Saving Data process Done
+2026-03-30 08:00:11,649 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 08:00:11,649 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 08:00:11,649 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 08:00:11,650 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 08:00:11,650 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 08:00:11,700 | app_logger | DEBUG | Data Loading Start
+2026-03-30 08:00:11,760 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 08:00:11,760 | app_logger | INFO | Data Splitting Start
+2026-03-30 08:00:11,771 | app_logger | INFO | Splitting data Done
+2026-03-30 08:00:11,772 | app_logger | DEBUG | Building a processor Start
+2026-03-30 08:00:11,773 | app_logger | DEBUG | Processor building Done
+2026-03-30 08:00:11,773 | app_logger | DEBUG | Model Building Start
+2026-03-30 08:01:11,055 | app_logger | INFO | Saving Data process start
+2026-03-30 08:01:11,072 | app_logger | INFO | Saving Data process Done
+2026-03-30 08:09:00,792 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 08:09:00,792 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 08:09:00,792 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 08:09:00,793 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 08:09:00,793 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 08:09:00,858 | app_logger | DEBUG | Data Loading Start
+2026-03-30 08:09:00,933 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 08:09:00,933 | app_logger | INFO | Data Splitting Start
+2026-03-30 08:09:00,947 | app_logger | INFO | Splitting data Done
+2026-03-30 08:09:00,948 | app_logger | DEBUG | Building a processor Start
+2026-03-30 08:09:00,948 | app_logger | DEBUG | Processor building Done
+2026-03-30 08:09:00,948 | app_logger | DEBUG | Model Building Start
+2026-03-30 08:09:57,521 | app_logger | INFO | Saving Data process start
+2026-03-30 08:09:57,533 | app_logger | INFO | Saving Data process Done
+2026-03-30 08:35:35,169 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 08:35:35,169 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 08:35:35,170 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 08:35:35,170 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 08:35:35,170 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 08:35:35,209 | app_logger | DEBUG | Data Loading Start
+2026-03-30 08:35:35,271 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 08:35:35,271 | app_logger | INFO | Data Splitting Start
+2026-03-30 08:35:35,281 | app_logger | INFO | Splitting data Done
+2026-03-30 08:35:35,282 | app_logger | DEBUG | Building a processor Start
+2026-03-30 08:35:35,283 | app_logger | DEBUG | Processor building Done
+2026-03-30 08:35:35,283 | app_logger | DEBUG | Model Building Start
+2026-03-30 08:36:19,747 | app_logger | INFO | Saving Data process start
+2026-03-30 08:36:19,763 | app_logger | INFO | Saving Data process Done
+2026-03-30 08:49:15,188 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 08:49:15,188 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 08:49:15,188 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 08:49:15,188 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 08:49:15,189 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 08:49:15,246 | app_logger | DEBUG | Data Loading Start
+2026-03-30 08:49:15,448 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 08:49:15,448 | app_logger | INFO | Data Splitting Start
+2026-03-30 08:49:15,460 | app_logger | INFO | Splitting data Done
+2026-03-30 08:49:15,461 | app_logger | DEBUG | Building a processor Start
+2026-03-30 08:49:15,461 | app_logger | DEBUG | Processor building Done
+2026-03-30 08:49:15,461 | app_logger | DEBUG | Model Building Start
+2026-03-30 08:50:38,356 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 08:50:38,357 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 08:50:38,357 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 08:50:38,357 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 08:50:38,357 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 08:50:38,399 | app_logger | DEBUG | Data Loading Start
+2026-03-30 08:50:38,470 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 08:50:38,470 | app_logger | INFO | Data Splitting Start
+2026-03-30 08:50:38,480 | app_logger | INFO | Splitting data Done
+2026-03-30 08:50:38,481 | app_logger | DEBUG | Building a processor Start
+2026-03-30 08:50:38,481 | app_logger | DEBUG | Processor building Done
+2026-03-30 08:50:38,481 | app_logger | DEBUG | Model Building Start
+2026-03-30 08:53:55,441 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 08:53:55,441 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 08:53:55,441 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 08:53:55,441 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 08:53:55,442 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 08:53:55,483 | app_logger | DEBUG | Data Loading Start
+2026-03-30 08:53:55,568 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 08:53:55,568 | app_logger | INFO | Data Splitting Start
+2026-03-30 08:53:55,580 | app_logger | INFO | Splitting data Done
+2026-03-30 08:53:55,581 | app_logger | DEBUG | Building a processor Start
+2026-03-30 08:53:55,581 | app_logger | DEBUG | Processor building Done
+2026-03-30 08:53:55,581 | app_logger | DEBUG | Model Building Start
+2026-03-30 08:54:33,773 | app_logger | INFO | Saving Data process start
+2026-03-30 08:54:33,784 | app_logger | INFO | Saving Data process Done

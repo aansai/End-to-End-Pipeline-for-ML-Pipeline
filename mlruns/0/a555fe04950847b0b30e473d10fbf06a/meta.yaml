@@ -1,0 +1,14 @@
+artifact_uri: file:C:/DVCpipe/mlruns/0/a555fe04950847b0b30e473d10fbf06a/artifacts
+end_time: 1774875607396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a555fe04950847b0b30e473d10fbf06a
+run_name: stately-dog-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774875558315
+status: 3
+tags: []
+user_id: Dell 11th

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/DVCpipe/mlruns/300772313972172426/models/m-47c6c094a13045e38ec254bdae2b53b7/artifacts
+creation_timestamp: 1774876289574
+experiment_id: '300772313972172426'
+last_updated_timestamp: 1774876297114
+model_id: m-47c6c094a13045e38ec254bdae2b53b7
+model_type: null
+name: model
+source_run_id: c713a42a53c847d0962612e4655f3b60
+status: 2
+status_message: null
