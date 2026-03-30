@@ -44,3 +44,83 @@
 2026-03-30 03:02:58,308 | app_logger | INFO | Make new col by capital_gain
 2026-03-30 03:02:58,312 | app_logger | INFO | gain-flag & gain-log columns making Successfully
 2026-03-30 03:02:58,312 | app_logger | INFO | Saving Data process start
+2026-03-30 03:34:26,159 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 03:34:26,159 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 03:34:26,159 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 03:34:26,160 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 03:34:26,160 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 03:34:26,160 | app_logger | DEBUG | Data Loading Start
+2026-03-30 03:35:46,249 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 03:35:46,249 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 03:35:46,249 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 03:35:46,249 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 03:35:46,250 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 03:35:46,250 | app_logger | DEBUG | Data Loading Start
+2026-03-30 03:35:46,317 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 03:35:46,317 | app_logger | INFO | Data Splitting Start
+2026-03-30 03:35:46,332 | app_logger | INFO | Splitting data DOne
+2026-03-30 03:35:46,333 | app_logger | DEBUG | Building a processor Start
+2026-03-30 03:35:46,333 | app_logger | DEBUG | Processor building Done
+2026-03-30 03:35:46,333 | app_logger | DEBUG | Model Building Start
+2026-03-30 03:36:28,062 | app_logger | INFO | Model building Done
+2026-03-30 03:36:28,062 | app_logger | INFO | Saving Data process start
+2026-03-30 03:39:08,602 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 03:39:08,603 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 03:39:08,603 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 03:39:08,603 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 03:39:08,603 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 03:39:08,603 | app_logger | DEBUG | Data Loading Start
+2026-03-30 03:39:08,673 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 03:39:08,673 | app_logger | INFO | Data Splitting Start
+2026-03-30 03:39:08,685 | app_logger | INFO | Splitting data DOne
+2026-03-30 03:39:08,686 | app_logger | DEBUG | Building a processor Start
+2026-03-30 03:39:08,686 | app_logger | DEBUG | Processor building Done
+2026-03-30 03:39:08,686 | app_logger | DEBUG | Model Building Start
+2026-03-30 03:39:53,805 | app_logger | INFO | Saving Data process start
+2026-03-30 03:39:53,820 | app_logger | INFO | Saving Data process Done
+2026-03-30 03:49:28,242 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 03:49:28,243 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 03:49:28,243 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 03:49:28,243 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 03:49:28,243 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 03:49:28,243 | app_logger | DEBUG | Data Loading Start
+2026-03-30 03:49:28,333 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 03:49:28,333 | app_logger | DEBUG | Data Saving Start
+2026-03-30 03:49:28,564 | app_logger | DEBUG | Data Save SUccessfully
+2026-03-30 03:51:44,790 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 03:51:44,792 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 03:51:44,792 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 03:51:44,792 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 03:51:44,792 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 03:51:44,792 | app_logger | DEBUG | Data Loading Start
+2026-03-30 03:51:44,997 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 03:51:44,998 | app_logger | DEBUG | Cleaning a Worclass Feature Start
+2026-03-30 03:51:45,041 | app_logger | DEBUG | Cleaning od Workclass Column Done...
+2026-03-30 03:51:45,041 | app_logger | DEBUG | Cleaning a Education Feature Start
+2026-03-30 03:51:45,096 | app_logger | DEBUG | Education column Cleaning Successfully Done
+2026-03-30 03:51:45,096 | app_logger | INFO | Make a new feature education_order
+2026-03-30 03:51:45,103 | app_logger | INFO | education_order col making by education col done
+2026-03-30 03:51:45,103 | app_logger | DEBUG | Drop a education column
+2026-03-30 03:51:45,111 | app_logger | INFO | marital.status cleaning start
+2026-03-30 03:51:45,150 | app_logger | INFO | marital_status cleaning done
+2026-03-30 03:51:45,152 | app_logger | INFO | Occupation column cleaning Start
+2026-03-30 03:51:45,195 | app_logger | DEBUG | Occupation column cleaning Done
+2026-03-30 03:51:45,195 | app_logger | DEBUG | relationship column cleaning Start
+2026-03-30 03:51:45,213 | app_logger | INFO | Relationship column cleaning done
+2026-03-30 03:51:45,213 | app_logger | INFO | race column drop
+2026-03-30 03:51:45,219 | app_logger | DEBUG | native_country column cleaning start
+2026-03-30 03:51:45,304 | app_logger | DEBUG | native_country cleaning done
+2026-03-30 03:51:45,306 | app_logger | INFO | change the features of target column
+2026-03-30 03:51:45,323 | app_logger | DEBUG | correct the name of capital loss column
+2026-03-30 03:51:45,324 | app_logger | INFO | Make new col by capital_gain
+2026-03-30 03:51:45,332 | app_logger | INFO | gain-flag & gain-log columns making Successfully
+2026-03-30 03:51:45,333 | app_logger | INFO | Saving Data process start
+2026-03-30 03:56:06,204 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 03:56:06,204 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 03:56:06,204 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 03:56:06,204 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 03:56:06,204 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 03:56:06,204 | app_logger | DEBUG | Data Loading Start
+2026-03-30 03:56:06,280 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 03:56:06,280 | app_logger | DEBUG | Data Saving Start
+2026-03-30 03:56:06,492 | app_logger | DEBUG | Data Save SUccessfully

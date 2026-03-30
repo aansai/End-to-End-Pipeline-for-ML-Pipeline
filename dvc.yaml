@@ -1,0 +1,21 @@
+stages:
+  data_ingeation:
+    cmd: python data_gathering.py
+    deps:
+    - data_gathering.py
+    outs:
+    - data/raw
+  data_cleaning:
+    cmd: python data_cleaning.py
+    deps:
+    - data/raw
+    - data_cleaning.py
+    outs:
+    - data/cleaning
+  model_building:
+    cmd: python model_building.py
+    deps:
+    - data/cleaning
+    - model_building.py
+    outs:
+    - model/model
