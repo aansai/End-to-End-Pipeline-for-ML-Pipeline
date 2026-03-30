@@ -380,3 +380,31 @@
 2026-03-30 08:53:55,581 | app_logger | DEBUG | Model Building Start
 2026-03-30 08:54:33,773 | app_logger | INFO | Saving Data process start
 2026-03-30 08:54:33,784 | app_logger | INFO | Saving Data process Done
+2026-03-30 09:27:27,951 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 09:27:27,952 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 09:27:27,953 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 09:27:27,954 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 09:27:27,955 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 09:27:30,360 | app_logger | DEBUG | Data Loading Start
+2026-03-30 09:27:30,470 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 09:27:30,470 | app_logger | INFO | Data Splitting Start
+2026-03-30 09:27:30,491 | app_logger | INFO | Splitting data Done
+2026-03-30 09:27:30,494 | app_logger | DEBUG | Building a processor Start
+2026-03-30 09:27:30,494 | app_logger | DEBUG | Processor building Done
+2026-03-30 09:27:30,494 | app_logger | DEBUG | Model Building Start
+2026-03-30 09:28:43,549 | app_logger | INFO | Saving Data process start
+2026-03-30 09:28:43,565 | app_logger | INFO | Saving Data process Done
+2026-03-30 09:37:40,063 | app_logger | DEBUG | Logger initialized and configuration loaded.
+2026-03-30 09:37:40,064 | app_logger | INFO | Starting the Data Preprocessing Pipeline...
+2026-03-30 09:37:40,064 | app_logger | WARNING | External data source detected: checking file integrity.
+2026-03-30 09:37:40,065 | app_logger | ERROR | Data validation failed: missing columns in input CSV.
+2026-03-30 09:37:40,066 | app_logger | CRITICAL | Memory limit reached: process terminated.
+2026-03-30 09:37:41,396 | app_logger | DEBUG | Data Loading Start
+2026-03-30 09:37:41,465 | app_logger | DEBUG | Data Load Successfully
+2026-03-30 09:37:41,465 | app_logger | INFO | Data Splitting Start
+2026-03-30 09:37:41,475 | app_logger | INFO | Splitting data Done
+2026-03-30 09:37:41,476 | app_logger | DEBUG | Building a processor Start
+2026-03-30 09:37:41,476 | app_logger | DEBUG | Processor building Done
+2026-03-30 09:37:41,476 | app_logger | DEBUG | Model Building Start
+2026-03-30 09:39:14,757 | app_logger | INFO | Saving Data process start
+2026-03-30 09:39:14,781 | app_logger | INFO | Saving Data process Done
